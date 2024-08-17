@@ -1,5 +1,5 @@
 # TaskIt
- Practicing Flask by doing a To Do List 
+To do list in Flask
 
 
 
